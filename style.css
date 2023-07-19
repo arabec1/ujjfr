@@ -1,0 +1,27 @@
+@font-face {
+  font-family: system;
+  font-style: normal;
+  font-weight: 300;
+  src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"),
+    local("Roboto-Light"), local("DroidSans"), local("Tahoma"),
+    local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Ligh
+} 
+} 
+ .lakhar{
+        border: 1 px solid #1589FF;
+        padding: 15px;
+        color: #fff;
+        background: #1589FF;
+        border-radius: 5px;
+        transition: all 0.5s;
+        font-size: 20px;
+    }
+    .lakhar:hover{
+        border: 1 px solid #1589FF;
+        padding: 15px;
+        color: #1589FF;
+        background: #fff;
+        border-radius: 5px;
+        transition: all 0.5s;
+        font-size: 20px;
+    }
